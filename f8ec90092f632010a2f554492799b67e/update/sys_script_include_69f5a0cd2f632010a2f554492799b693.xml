@@ -13,9 +13,7 @@ HyperScript.prototype = {
 		if(config) {
 			this.config = config;
 		}
-		this.config = {
-			active: false
-		};
+		this.config = {};
     },
 
     type: 'HyperScript'
@@ -24,13 +22,13 @@ HyperScript.prototype = {
         <sys_created_by>Faelivrinx</sys_created_by>
         <sys_created_on>2021-04-14 08:21:04</sys_created_on>
         <sys_id>69f5a0cd2f632010a2f554492799b693</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>HyperScript</sys_name>
         <sys_package display_value="s_play" source="x_597083_s_play">f8ec90092f632010a2f554492799b67e</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="s_play">f8ec90092f632010a2f554492799b67e</sys_scope>
         <sys_update_name>sys_script_include_69f5a0cd2f632010a2f554492799b693</sys_update_name>
-        <sys_updated_by>randomguy</sys_updated_by>
-        <sys_updated_on>2021-04-14 08:35:41</sys_updated_on>
+        <sys_updated_by>Faelivrinx</sys_updated_by>
+        <sys_updated_on>2021-04-14 08:41:47</sys_updated_on>
     </sys_script_include>
 </record_update>
